@@ -10,7 +10,7 @@ This project was built by me using HTML, CSS and JS. It will be added to my port
 [Live GitHub Deployment](https://twitter-clone-horatio.herokuapp.com/)
 
 
-![Screenshot placeholder] (netflix-land-page.png)
+![netflix-land-page](https://user-images.githubusercontent.com/78431899/188521951-6807def9-4dcf-41e1-bb70-bc74a018760b.png)
 
 
 ## Technologies Used
