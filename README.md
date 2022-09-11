@@ -1,7 +1,7 @@
 # Netflix Landing Page Clone
 
 
-This project was built by me using HTML, CSS and JS. It will be added to my portfolio showcase as one of my projects.
+This project was built by me using HTML, CSS and JS. 
 
 
 [Live GitHub Deployment](https://ray-xavier-2021.github.io/netflix-landing-page-clone/)
@@ -25,4 +25,4 @@ No login required.
 
 
 
-- HTML< CSS and JS practice
+- HTML CSS and JS practice
